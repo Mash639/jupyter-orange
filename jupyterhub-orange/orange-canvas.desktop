@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Orange Data Mining
+GenericName=Data Mining Suite
+Comment=Explore, analyze, and visualize your data
+Exec=orange-canvas
+Icon=/usr/share/backgrounds/images/orange.png
+Terminal=false
+MimeType=application/x-extension-ows;
+Categories=Science;Education;ArtificialIntelligence;DataVisualization;NumericalAnalysis;Qt;
+Keywords=Machine Learning;Scientific Visualization;Statistical Analysis;
+X-GNOME-Autostart-enabled=true
